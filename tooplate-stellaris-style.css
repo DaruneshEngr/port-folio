@@ -1,14 +1,9 @@
-/*
-
-Tooplate 2140 Stellaris Research
-
-https://www.tooplate.com/view/2140-stellaris-research
-
-*/
 
 @charset "utf-8";
 /* CSS Document */
-
+html{
+	scroll-behaviour: smooth;
+}
 * {
             margin: 0;
             padding: 0;
@@ -1238,4 +1233,5 @@ https://www.tooplate.com/view/2140-stellaris-research
             .footer-bottom {
                 font-size: 0.85rem;
             }
+
         }
